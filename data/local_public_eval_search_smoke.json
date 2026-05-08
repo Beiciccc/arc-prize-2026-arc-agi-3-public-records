@@ -1,0 +1,82 @@
+{
+  "config": {
+    "max_steps": 20,
+    "beam_width": 16,
+    "max_frontier": 32,
+    "complex_branch_limit": 16,
+    "exhaustive_complex_threshold": 48,
+    "exact_bfs_branch_threshold": 12,
+    "exact_bfs_max_states": 2000,
+    "time_limit_seconds": 3.0
+  },
+  "games": [
+    {
+      "game_id": "tu93-0768757b",
+      "levels_completed": 0,
+      "state": "NOT_FINISHED",
+      "actions_used": 9,
+      "levels_total": 9,
+      "planned_actions": [
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        },
+        {
+          "id": 1,
+          "name": "ACTION1",
+          "data": {}
+        }
+      ],
+      "baseline_actions": [
+        19,
+        16,
+        34,
+        42,
+        123,
+        80,
+        14,
+        23,
+        111
+      ]
+    }
+  ],
+  "total_levels_completed": 0,
+  "total_levels": 9,
+  "fraction_levels_completed": 0.0
+}

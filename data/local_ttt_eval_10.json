@@ -1,0 +1,87 @@
+{
+  "results": [
+    {
+      "game_id": "tu93-0768757b",
+      "levels": 0,
+      "actions": 236,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1169,
+      "levels_total": 9
+    },
+    {
+      "game_id": "ar25-0c556536",
+      "levels": 0,
+      "actions": 240,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1189,
+      "levels_total": 8
+    },
+    {
+      "game_id": "re86-8af5384d",
+      "levels": 0,
+      "actions": 239,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1186,
+      "levels_total": 8
+    },
+    {
+      "game_id": "su15-1944f8ab",
+      "levels": 0,
+      "actions": 238,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1183,
+      "levels_total": 9
+    },
+    {
+      "game_id": "m0r0-492f87ba",
+      "levels": 0,
+      "actions": 239,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1186,
+      "levels_total": 6
+    },
+    {
+      "game_id": "cn04-2fe56bfb",
+      "levels": 0,
+      "actions": 237,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1172,
+      "levels_total": 6
+    },
+    {
+      "game_id": "ft09-0d8bbf25",
+      "levels": 0,
+      "actions": 234,
+      "state": "GAME_OVER",
+      "wm_updates": 1163,
+      "levels_total": 6
+    },
+    {
+      "game_id": "tr87-cd924810",
+      "levels": 0,
+      "actions": 239,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1186,
+      "levels_total": 6
+    },
+    {
+      "game_id": "sc25-635fd71a",
+      "levels": 0,
+      "actions": 239,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1178,
+      "levels_total": 6
+    },
+    {
+      "game_id": "lp85-305b61c3",
+      "levels": 0,
+      "actions": 240,
+      "state": "NOT_FINISHED",
+      "wm_updates": 1189,
+      "levels_total": 8
+    }
+  ],
+  "total_levels_completed": 0,
+  "total_levels": 72,
+  "fraction_levels_completed": 0.0
+}

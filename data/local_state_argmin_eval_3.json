@@ -1,0 +1,35 @@
+{
+  "config": {
+    "max_actions_per_game": 240,
+    "max_resets": 3
+  },
+  "results": [
+    {
+      "game_id": "tu93-0768757b",
+      "actions": 203,
+      "resets": 3,
+      "levels_completed": 0,
+      "levels_total": 9,
+      "state": "GAME_OVER"
+    },
+    {
+      "game_id": "ar25-0c556536",
+      "actions": 240,
+      "resets": 2,
+      "levels_completed": 0,
+      "levels_total": 8,
+      "state": "NOT_FINISHED"
+    },
+    {
+      "game_id": "re86-8af5384d",
+      "actions": 240,
+      "resets": 2,
+      "levels_completed": 0,
+      "levels_total": 8,
+      "state": "NOT_FINISHED"
+    }
+  ],
+  "total_levels_completed": 0,
+  "total_levels": 25,
+  "fraction_levels_completed": 0.0
+}

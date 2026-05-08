@@ -1,0 +1,45 @@
+{
+  "config": {
+    "max_actions_per_game": 120,
+    "max_clicks_per_state": 16,
+    "max_resets_per_game": 4,
+    "max_state_revisits": 4,
+    "stagnation_limit": 12,
+    "explore_bonus": 8.0,
+    "global_bias": 0.25,
+    "level_gain_reward": 100.0,
+    "frame_change_reward": 12.0,
+    "new_state_reward": 3.0,
+    "terminal_win_reward": 20.0,
+    "terminal_loss_penalty": 8.0
+  },
+  "results": [
+    {
+      "game_id": "tu93-0768757b",
+      "actions": 120,
+      "resets": 2,
+      "levels_completed": 0,
+      "levels_total": 9,
+      "state": "NOT_FINISHED"
+    },
+    {
+      "game_id": "ar25-0c556536",
+      "actions": 120,
+      "resets": 1,
+      "levels_completed": 0,
+      "levels_total": 8,
+      "state": "NOT_FINISHED"
+    },
+    {
+      "game_id": "re86-8af5384d",
+      "actions": 120,
+      "resets": 1,
+      "levels_completed": 0,
+      "levels_total": 8,
+      "state": "NOT_FINISHED"
+    }
+  ],
+  "total_levels_completed": 0,
+  "total_levels": 25,
+  "fraction_levels_completed": 0.0
+}

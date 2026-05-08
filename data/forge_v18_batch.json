@@ -1,0 +1,288 @@
+{
+  "python_bin": "./.evalvenv/bin/python",
+  "agent_source": "/tmp/forge_v18_agent.py",
+  "game_roots": [
+    "ar25",
+    "cd82",
+    "cn04",
+    "g50t",
+    "ls20",
+    "m0r0",
+    "sb26",
+    "sc25",
+    "sk48"
+  ],
+  "max_actions": 8,
+  "timeout_seconds": 30,
+  "completed_games": 3,
+  "total_levels_completed": 0,
+  "results": [
+    {
+      "game_root": "ar25",
+      "status": "timeout",
+      "timeout_seconds": 30,
+      "stdout_tail": "",
+      "stderr_tail": "2026-04-28 02:17:19,864 | INFO | Successfully loaded game class Ar25 from input/raw-data/environment_files/ar25/0c556536/ar25.py\n2026-04-28 02:17:19,898 | INFO | BFS: loaded Ar25 from input/raw-data/environment_files/ar25/0c556536/ar25.py\n2026-04-28 02:17:20,390 | INFO | BFS L0: 5 effective actions\n"
+    },
+    {
+      "game_root": "cd82",
+      "status": "timeout",
+      "timeout_seconds": 30,
+      "stdout_tail": "{\"idx\": 0, \"action\": 3, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 1, \"action\": 2, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 2, \"action\": 2, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 3, \"action\": 4, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 4, \"action\": 5, \"levels_completed\": 1, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n",
+      "stderr_tail": "2026-04-28 02:17:50,063 | INFO | Successfully loaded game class Cd82 from input/raw-data/environment_files/cd82/fb555c5d/cd82.py\n2026-04-28 02:17:50,101 | INFO | BFS: loaded Cd82 from input/raw-data/environment_files/cd82/fb555c5d/cd82.py\n2026-04-28 02:17:50,352 | INFO | BFS L0: 7 effective actions\n2026-04-28 02:17:50,821 | INFO | BFS L0: SOLVED in 5 actions (369 explored, 0.5s)\n2026-04-28 02:17:51,882 | INFO | BFS L1: 7 effective actions\n"
+    },
+    {
+      "game_root": "cn04",
+      "status": "timeout",
+      "timeout_seconds": 30,
+      "stdout_tail": "",
+      "stderr_tail": "2026-04-28 02:18:19,945 | INFO | Successfully loaded game class Cn04 from input/raw-data/environment_files/cn04/2fe56bfb/cn04.py\n2026-04-28 02:18:19,981 | INFO | BFS: loaded Cn04 from input/raw-data/environment_files/cn04/2fe56bfb/cn04.py\n2026-04-28 02:18:20,042 | INFO | BFS L0: 7 effective actions\n"
+    },
+    {
+      "game_root": "g50t",
+      "status": "ok",
+      "returncode": 0,
+      "stdout_tail": "{\"idx\": 0, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 1, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 2, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 3, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 4, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 5, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 6, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 7, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\n  \"summary\": {\n    \"game_root\": \"g50t\",\n    \"game_id\": \"g50t-5849a774\",\n    \"actions\": 8,\n    \"levels_completed\": 0,\n    \"state\": \"NOT_FINISHED\",\n    \"bfs_loaded\": true,\n    \"bfs_solution_len\": 0,\n    \"bfs_step\": 0\n  },\n  \"steps\": [\n    {\n      \"idx\": 0,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 1,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 2,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 3,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 4,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 5,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 6,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 7,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    }\n  ]\n}\n",
+      "stderr_tail": "2026-04-28 02:18:49,915 | INFO | Successfully loaded game class G50t from input/raw-data/environment_files/g50t/5849a774/g50t.py\n2026-04-28 02:18:49,956 | INFO | BFS: loaded G50t from input/raw-data/environment_files/g50t/5849a774/g50t.py\n2026-04-28 02:18:49,981 | INFO | BFS L0: 2 effective actions\n2026-04-28 02:18:50,097 | INFO | BFS L0: first pass timeout (36 explored, 18 unique, 0.1s)\n2026-04-28 02:18:50,103 | INFO | BFS L0: RETRY with hidden fields: ['ucorwtereb']\n2026-04-28 02:18:52,323 | INFO | BFS L0: hidden retry also failed (624 explored, 323 unique)\n",
+      "summary": {
+        "game_root": "g50t",
+        "game_id": "g50t-5849a774",
+        "actions": 8,
+        "levels_completed": 0,
+        "state": "NOT_FINISHED",
+        "bfs_loaded": true,
+        "bfs_solution_len": 0,
+        "bfs_step": 0
+      },
+      "steps": [
+        {
+          "idx": 0,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 1,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 2,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 3,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 4,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 5,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 6,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 7,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "game_root": "ls20",
+      "status": "timeout",
+      "timeout_seconds": 30,
+      "stdout_tail": "",
+      "stderr_tail": "2026-04-28 02:18:54,913 | INFO | Successfully loaded game class Ls20 from input/raw-data/environment_files/ls20/9607627b/ls20.py\n2026-04-28 02:18:54,955 | INFO | BFS: loaded Ls20 from input/raw-data/environment_files/ls20/9607627b/ls20.py\n2026-04-28 02:18:55,018 | INFO | BFS L0: 4 effective actions\n"
+    },
+    {
+      "game_root": "m0r0",
+      "status": "ok",
+      "returncode": 0,
+      "stdout_tail": "{\"idx\": 0, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 1, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 2, \"action\": 3, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 3, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 4, \"action\": 3, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 5, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 6, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 7, \"action\": 1, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\n  \"summary\": {\n    \"game_root\": \"m0r0\",\n    \"game_id\": \"m0r0-492f87ba\",\n    \"actions\": 8,\n    \"levels_completed\": 0,\n    \"state\": \"NOT_FINISHED\",\n    \"bfs_loaded\": true,\n    \"bfs_solution_len\": 15,\n    \"bfs_step\": 8\n  },\n  \"steps\": [\n    {\n      \"idx\": 0,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 1,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 2,\n      \"action\": 3,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 3,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 4,\n      \"action\": 3,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 5,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 6,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 7,\n      \"action\": 1,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    }\n  ]\n}\n",
+      "stderr_tail": "2026-04-28 02:19:24,970 | INFO | Successfully loaded game class M0r0 from input/raw-data/environment_files/m0r0/492f87ba/m0r0.py\n2026-04-28 02:19:25,005 | INFO | BFS: loaded M0r0 from input/raw-data/environment_files/m0r0/492f87ba/m0r0.py\n2026-04-28 02:19:26,888 | INFO | BFS L0: 4 effective actions\n2026-04-28 02:19:41,617 | INFO | BFS L0: SOLVED in 15 actions (5348 explored, 14.7s)\n",
+      "summary": {
+        "game_root": "m0r0",
+        "game_id": "m0r0-492f87ba",
+        "actions": 8,
+        "levels_completed": 0,
+        "state": "NOT_FINISHED",
+        "bfs_loaded": true,
+        "bfs_solution_len": 15,
+        "bfs_step": 8
+      },
+      "steps": [
+        {
+          "idx": 0,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 1,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 2,
+          "action": 3,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 3,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 4,
+          "action": 3,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 5,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 6,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 7,
+          "action": 1,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "game_root": "sb26",
+      "status": "ok",
+      "returncode": 0,
+      "stdout_tail": "{\"idx\": 0, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 1, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 2, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 3, \"action\": 5, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 4, \"action\": 6, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 5, \"action\": 6, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 6, \"action\": 6, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\"idx\": 7, \"action\": 6, \"levels_completed\": 0, \"state\": \"NOT_FINISHED\", \"reasoning\": \"\"}\n{\n  \"summary\": {\n    \"game_root\": \"sb26\",\n    \"game_id\": \"sb26-7fbdac44\",\n    \"actions\": 8,\n    \"levels_completed\": 0,\n    \"state\": \"NOT_FINISHED\",\n    \"bfs_loaded\": true,\n    \"bfs_solution_len\": 0,\n    \"bfs_step\": 0\n  },\n  \"steps\": [\n    {\n      \"idx\": 0,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 1,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 2,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 3,\n      \"action\": 5,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 4,\n      \"action\": 6,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 5,\n      \"action\": 6,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 6,\n      \"action\": 6,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    },\n    {\n      \"idx\": 7,\n      \"action\": 6,\n      \"levels_completed\": 0,\n      \"state\": \"NOT_FINISHED\",\n      \"reasoning\": \"\"\n    }\n  ]\n}\n",
+      "stderr_tail": "2026-04-28 02:19:43,769 | INFO | Successfully loaded game class Sb26 from input/raw-data/environment_files/sb26/7fbdac44/sb26.py\n2026-04-28 02:19:43,802 | INFO | BFS: loaded Sb26 from input/raw-data/environment_files/sb26/7fbdac44/sb26.py\n2026-04-28 02:19:44,273 | INFO | BFS L0: 5 effective actions\n2026-04-28 02:19:48,116 | INFO | BFS L0: first pass timeout (755 explored, 156 unique, 3.8s)\n",
+      "summary": {
+        "game_root": "sb26",
+        "game_id": "sb26-7fbdac44",
+        "actions": 8,
+        "levels_completed": 0,
+        "state": "NOT_FINISHED",
+        "bfs_loaded": true,
+        "bfs_solution_len": 0,
+        "bfs_step": 0
+      },
+      "steps": [
+        {
+          "idx": 0,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 1,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 2,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 3,
+          "action": 5,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 4,
+          "action": 6,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 5,
+          "action": 6,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 6,
+          "action": 6,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        },
+        {
+          "idx": 7,
+          "action": 6,
+          "levels_completed": 0,
+          "state": "NOT_FINISHED",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "game_root": "sc25",
+      "status": "timeout",
+      "timeout_seconds": 30,
+      "stdout_tail": "",
+      "stderr_tail": "2026-04-28 02:19:50,155 | INFO | Successfully loaded game class Sc25 from input/raw-data/environment_files/sc25/635fd71a/sc25.py\n2026-04-28 02:19:50,189 | INFO | BFS: loaded Sc25 from input/raw-data/environment_files/sc25/635fd71a/sc25.py\n2026-04-28 02:19:51,469 | INFO | BFS L0: UNLOCKED with ACTION1! 13 actions\n2026-04-28 02:19:51,469 | INFO | BFS L0: 13 effective actions\n"
+    },
+    {
+      "game_root": "sk48",
+      "status": "timeout",
+      "timeout_seconds": 30,
+      "stdout_tail": "",
+      "stderr_tail": "2026-04-28 02:20:20,304 | INFO | Successfully loaded game class Sk48 from input/raw-data/environment_files/sk48/d8078629/sk48.py\n2026-04-28 02:20:20,336 | INFO | BFS: loaded Sk48 from input/raw-data/environment_files/sk48/d8078629/sk48.py\n2026-04-28 02:20:22,074 | INFO | BFS L0: 3 effective actions\n"
+    }
+  ]
+}

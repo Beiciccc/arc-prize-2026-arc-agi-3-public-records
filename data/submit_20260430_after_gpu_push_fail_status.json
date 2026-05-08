@@ -1,0 +1,126 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "checked_at_utc": "2026-04-30T14:57:07.209091+00:00",
+  "utc_date": "2026-04-30",
+  "daily_limit": 1,
+  "used_submissions_today_utc": 0,
+  "remaining_submissions_today_utc": 1,
+  "latest_submission": {
+    "ref": 52171366,
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": 0.21,
+    "privateScore": null,
+    "description": "search planner prio replay",
+    "fileName": "submission.parquet",
+    "date": "2026-04-29T14:34:23.540000"
+  },
+  "recent_submissions": [
+    {
+      "ref": 52171366,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.21,
+      "privateScore": null,
+      "description": "search planner prio replay",
+      "fileName": "submission.parquet",
+      "date": "2026-04-29T14:34:23.540000"
+    },
+    {
+      "ref": 52115484,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.19,
+      "privateScore": null,
+      "description": "search planner bfs-cnn",
+      "fileName": "submission.parquet",
+      "date": "2026-04-28T00:43:58.493000"
+    },
+    {
+      "ref": 52073738,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.07,
+      "privateScore": null,
+      "description": "hybrid bfs latent",
+      "fileName": "submission.parquet",
+      "date": "2026-04-26T17:39:57.003000"
+    },
+    {
+      "ref": 52015550,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.06,
+      "privateScore": null,
+      "description": "latent planner",
+      "fileName": "submission.parquet",
+      "date": "2026-04-25T00:58:58.283000"
+    },
+    {
+      "ref": 51968132,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.08,
+      "privateScore": null,
+      "description": "sequence runner gateway parquet",
+      "fileName": "submission.parquet",
+      "date": "2026-04-23T13:25:21.913000"
+    }
+  ],
+  "public_notebooks": [
+    {
+      "ref": "ashvinsingh/ash-s-arc-agi-3-agent",
+      "title": "Ash's ARC-AGI-3 Agent ",
+      "author": "ashvin singh",
+      "lastRunTime": "2026-04-29 01:33:31.667000",
+      "totalVotes": "123"
+    },
+    {
+      "ref": "projectforty2/forge-arc-agi-3-agent",
+      "title": "FORGE ARC-AGI-3 Agent",
+      "author": "CHRONOS",
+      "lastRunTime": "2026-03-31 14:32:23.570000",
+      "totalVotes": "128"
+    },
+    {
+      "ref": "aadigupta1601/0-35-forge-v16-trigger-aware-bfs",
+      "title": "[0.35]FORGE v16 Trigger-aware BFS ",
+      "author": "Aadi Gupta",
+      "lastRunTime": "2026-04-05 05:05:05.633000",
+      "totalVotes": "91"
+    },
+    {
+      "ref": "itsyoursumit/0-35-forge-v16-trigger-aware-bfs-submi3",
+      "title": "[0.35]FORGE v16 Trigger-aware BFS  submi3",
+      "author": "Sumit Pandey",
+      "lastRunTime": "2026-04-06 03:56:06.907000",
+      "totalVotes": "16"
+    },
+    {
+      "ref": "marynaborovska/hybrid-search-and-learn-agent-0-35-lb",
+      "title": "Hybrid Search-and-Learn Agent | 0.35+ LB",
+      "author": "Maryna Borovska",
+      "lastRunTime": "2026-04-20 14:14:32.727000",
+      "totalVotes": "23"
+    },
+    {
+      "ref": "vyankteshdwivedi/arc-agi-3-hybrid-solver-bfs-cnn-heuristics",
+      "title": "ARC-AGI-3 Hybrid Solver (BFS + CNN + Heuristics)",
+      "author": "zorojuro",
+      "lastRunTime": "2026-04-29 21:39:41.693000",
+      "totalVotes": "6"
+    },
+    {
+      "ref": "karnakbaevarthur/arc-agi-3-level-by-level-logic-explanations",
+      "title": "ARC-AGI-3: Level-by-Level Logic Explanations",
+      "author": "Karnakbayev Artur",
+      "lastRunTime": "2026-04-30 06:05:16.090000",
+      "totalVotes": "19"
+    },
+    {
+      "ref": "imaadmahmood/stochasticgoose-cnn-frame-change-agent",
+      "title": "StochasticGoose++ | CNN Frame-Change Agent",
+      "author": "Imaad Mahmood",
+      "lastRunTime": "2026-04-30 09:59:54.430000",
+      "totalVotes": "54"
+    }
+  ],
+  "notes": [
+    "Discussion/comment pages on Kaggle may be inaccessible without anti-forgery tokens.",
+    "Remaining submission count is computed from today's UTC submissions and the configured daily limit."
+  ]
+}
