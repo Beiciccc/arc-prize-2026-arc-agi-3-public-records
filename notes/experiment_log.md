@@ -27,6 +27,8 @@ The following JSON files are kept in `/data` (copied from latest artifacts):
 - forge_v19_prio_batch.json
 - kaggle_cycle_status.json
 - kaggle_cycle_status.poll.json
+- kaggle_cycle_status_after_submit.json
+- kaggle_cycle_status_latest.json
 - kaggle_cycle_status_postsubmit.json
 - kaggle_cycle_status_today.json
 - local_competition_eval_full.json
