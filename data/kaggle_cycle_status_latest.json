@@ -1,20 +1,29 @@
 {
   "competition": "arc-prize-2026-arc-agi-3",
-  "checked_at_utc": "2026-05-13T00:30:30.445886+00:00",
-  "utc_date": "2026-05-13",
+  "checked_at_utc": "2026-05-14T02:05:55.844633+00:00",
+  "utc_date": "2026-05-14",
   "daily_limit": 1,
   "used_submissions_today_utc": 0,
   "remaining_submissions_today_utc": 1,
   "latest_submission": {
-    "ref": 52569968,
+    "ref": 52595738,
     "status": "SubmissionStatus.COMPLETE",
-    "publicScore": 0.1,
+    "publicScore": 0.26,
     "privateScore": null,
     "description": "redpill v5 cpu latest",
     "fileName": "submission.parquet",
-    "date": "2026-05-12T07:56:13.350000"
+    "date": "2026-05-13T00:34:01.567000"
   },
   "recent_submissions": [
+    {
+      "ref": 52595738,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.26,
+      "privateScore": null,
+      "description": "redpill v5 cpu latest",
+      "fileName": "submission.parquet",
+      "date": "2026-05-13T00:34:01.567000"
+    },
     {
       "ref": 52569968,
       "status": "SubmissionStatus.COMPLETE",
@@ -95,15 +104,6 @@
       "description": "ash0501 prio heuristic",
       "fileName": "submission.parquet",
       "date": "2026-05-01T02:21:27.880000"
-    },
-    {
-      "ref": 52206396,
-      "status": "SubmissionStatus.COMPLETE",
-      "publicScore": 0.19,
-      "privateScore": null,
-      "description": "search planner uniform replay",
-      "fileName": "submission.parquet",
-      "date": "2026-04-30T14:57:55.687000"
     }
   ],
   "public_notebooks": [
@@ -112,14 +112,14 @@
       "title": "[ARC26-3] Agent v15",
       "author": "Jonathan Chan",
       "lastRunTime": "2026-05-09 04:02:06.470000",
-      "totalVotes": "94"
+      "totalVotes": "103"
     },
     {
       "ref": "ashvinsingh/ash-s-arc-agi-3-agent",
       "title": "Ash's ARC-AGI-3 Agent ",
       "author": "ashvin singh",
       "lastRunTime": "2026-05-01 01:36:43.377000",
-      "totalVotes": "175"
+      "totalVotes": "177"
     },
     {
       "ref": "projectforty2/forge-arc-agi-3-agent",
@@ -133,14 +133,14 @@
       "title": " ARC-AGI-3 Agent-17",
       "author": "Eslam Elokpy",
       "lastRunTime": "2026-05-02 22:33:44.263000",
-      "totalVotes": "31"
+      "totalVotes": "34"
     },
     {
       "ref": "vyankteshdwivedi/arc-agi-3-hybrid-solver-bfs-cnn-heuristics",
       "title": "ARC-AGI-3 Hybrid Solver (BFS + CNN + Heuristics)",
       "author": "zorojuro",
-      "lastRunTime": "2026-05-12 20:48:35.010000",
-      "totalVotes": "73"
+      "lastRunTime": "2026-05-13 19:40:54.243000",
+      "totalVotes": "76"
     },
     {
       "ref": "aadigupta1601/0-35-forge-v16-trigger-aware-bfs",
@@ -154,7 +154,7 @@
       "title": "[0.35]FORGE v16 Trigger-aware BFS  submi3",
       "author": "Sumit Pandey",
       "lastRunTime": "2026-04-06 03:56:06.907000",
-      "totalVotes": "19"
+      "totalVotes": "20"
     },
     {
       "ref": "marynaborovska/hybrid-search-and-learn-agent-0-35-lb",
