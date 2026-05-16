@@ -1,20 +1,20 @@
 # ARC Prize 2026 - Public Records
 
 ## Run Summary
-- Updated: 2026-05-14T02:08:28.042054+00:00
+- Updated: 2026-05-16T19:42:19.229207+00:00
 - Daily limit: 1
 - Used today: 1
 - Remaining today: 0
-- Latest record: ref=52633049, status=SubmissionStatus.PENDING, score=None
+- Latest record: ref=52719575, status=SubmissionStatus.PENDING, score=
 
 ## Recent submissions
 - ref | timestamp | status | public score
-- 52633049 | 2026-05-14T02:07:58.547000 | SubmissionStatus.PENDING | None
-- 52595738 | 2026-05-13T00:34:01.567000 | SubmissionStatus.COMPLETE | None
-- 52569968 | 2026-05-12T07:56:13.350000 | SubmissionStatus.COMPLETE | None
-- 52469494 | 2026-05-09T02:19:57.420000 | SubmissionStatus.COMPLETE | None
-- 52403832 | 2026-05-07T00:17:24.127000 | SubmissionStatus.COMPLETE | None
-- 52369295 | 2026-05-06T00:07:10.893000 | SubmissionStatus.COMPLETE | None
+- 52719575 | 2026-05-16T19:42:14.447000 | SubmissionStatus.PENDING | 
+- 52666651 | 2026-05-15T02:31:15.533000 | SubmissionStatus.COMPLETE | 0.18
+- 52633049 | 2026-05-14T02:07:58.547000 | SubmissionStatus.COMPLETE | 0.16
+- 52595738 | 2026-05-13T00:34:01.567000 | SubmissionStatus.COMPLETE | 0.26
+- 52569968 | 2026-05-12T07:56:13.350000 | SubmissionStatus.COMPLETE | 0.10
+- 52469494 | 2026-05-09T02:19:57.420000 | SubmissionStatus.COMPLETE | 0.18
 
 ## Data set
 The following JSON files are kept in `/data` (copied from latest artifacts):
@@ -29,6 +29,7 @@ The following JSON files are kept in `/data` (copied from latest artifacts):
 - kaggle_cycle_status.poll.json
 - kaggle_cycle_status_after_submit.json
 - kaggle_cycle_status_after_submit2.json
+- kaggle_cycle_status_after_submit_final.json
 - kaggle_cycle_status_latest.json
 - kaggle_cycle_status_postsubmit.json
 - kaggle_cycle_status_today.json
