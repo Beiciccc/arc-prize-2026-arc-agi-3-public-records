@@ -1,20 +1,29 @@
 {
   "competition": "arc-prize-2026-arc-agi-3",
-  "checked_at_utc": "2026-05-16T19:41:35.216184+00:00",
-  "utc_date": "2026-05-16",
+  "checked_at_utc": "2026-05-17T00:32:50.987610+00:00",
+  "utc_date": "2026-05-17",
   "daily_limit": 1,
   "used_submissions_today_utc": 0,
   "remaining_submissions_today_utc": 1,
   "latest_submission": {
-    "ref": 52666651,
+    "ref": 52719575,
     "status": "SubmissionStatus.COMPLETE",
-    "publicScore": 0.18,
+    "publicScore": 0.15,
     "privateScore": null,
     "description": "redpill v5 cpu latest",
     "fileName": "submission.parquet",
-    "date": "2026-05-15T02:31:15.533000"
+    "date": "2026-05-16T19:42:14.447000"
   },
   "recent_submissions": [
+    {
+      "ref": 52719575,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": 0.15,
+      "privateScore": null,
+      "description": "redpill v5 cpu latest",
+      "fileName": "submission.parquet",
+      "date": "2026-05-16T19:42:14.447000"
+    },
     {
       "ref": 52666651,
       "status": "SubmissionStatus.COMPLETE",
@@ -95,15 +104,6 @@
       "description": "agent17 public candidate",
       "fileName": "submission.parquet",
       "date": "2026-05-04T06:26:18.040000"
-    },
-    {
-      "ref": 52277178,
-      "status": "SubmissionStatus.COMPLETE",
-      "publicScore": 0.18,
-      "privateScore": null,
-      "description": "forge prio baseline restore",
-      "fileName": "submission.parquet",
-      "date": "2026-05-03T03:24:40.267000"
     }
   ],
   "public_notebooks": [
@@ -112,7 +112,7 @@
       "title": "[ARC26-3] Agent v15",
       "author": "Jonathan Chan",
       "lastRunTime": "2026-05-09 04:02:06.470000",
-      "totalVotes": "126"
+      "totalVotes": "128"
     },
     {
       "ref": "ashvinsingh/ash-s-arc-agi-3-agent",
