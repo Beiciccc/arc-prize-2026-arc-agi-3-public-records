@@ -1,20 +1,20 @@
 # ARC Prize 2026 - Public Records
 
 ## Run Summary
-- Updated: 2026-05-17T00:33:35.306444+00:00
+- Updated: 2026-05-18T04:49:02.977386+00:00
 - Daily limit: 1
 - Used today: 1
 - Remaining today: 0
-- Latest record: ref=52724194, status=SubmissionStatus.PENDING, score=
+- Latest record: ref=52763032, status=SubmissionStatus.PENDING, score=0.19
 
 ## Recent submissions
 - ref | timestamp | status | public score
-- 52724194 | 2026-05-17T00:33:31.980000 | SubmissionStatus.PENDING | 
+- 52763032 | 2026-05-17T00:33:31.980000 | SubmissionStatus.PENDING | 0.19
+- 52724194 | 2026-05-17T00:33:31.980000 | SubmissionStatus.COMPLETE | 0.19
 - 52719575 | 2026-05-16T19:42:14.447000 | SubmissionStatus.COMPLETE | 0.15
 - 52666651 | 2026-05-15T02:31:15.533000 | SubmissionStatus.COMPLETE | 0.18
 - 52633049 | 2026-05-14T02:07:58.547000 | SubmissionStatus.COMPLETE | 0.16
 - 52595738 | 2026-05-13T00:34:01.567000 | SubmissionStatus.COMPLETE | 0.26
-- 52569968 | 2026-05-12T07:56:13.350000 | SubmissionStatus.COMPLETE | 0.10
 
 ## Data set
 The following JSON files are kept in `/data` (copied from latest artifacts):
