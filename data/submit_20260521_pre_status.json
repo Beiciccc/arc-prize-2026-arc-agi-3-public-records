@@ -1,0 +1,94 @@
+{
+  "checked_at_utc": "2026-05-21T02:41:23.198580+00:00",
+  "competition": "arc-prize-2026-arc-agi-3",
+  "latest_submission": {
+    "fileName": "submission.parquet",
+    "date": "2026-05-21 02:41:07.427000",
+    "description": "redpill v5 cpu latest",
+    "status": "SubmissionStatus.PENDING",
+    "publicScore": "",
+    "privateScore": ""
+  },
+  "recent_submissions": [
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-21 02:41:07.427000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.PENDING",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-20 01:02:13.603000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.08",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-19 02:33:07.083000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.38",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-18 04:47:40.497000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.14",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-17 00:33:31.980000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.19",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-16 19:42:14.447000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.15",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-15 02:31:15.533000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.18",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-14 02:07:58.547000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.16",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-13 00:34:01.567000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.26",
+      "privateScore": ""
+    },
+    {
+      "fileName": "submission.parquet",
+      "date": "2026-05-12 07:56:13.350000",
+      "description": "redpill v5 cpu latest",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.10",
+      "privateScore": ""
+    }
+  ]
+}
