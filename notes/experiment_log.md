@@ -1,15 +1,18 @@
 # ARC Prize 2026 - Public Records
 
 ## Run Summary
-- Updated: 2026-05-21T02:41:09.322218+00:00
+- Updated: 2026-05-22T01:12:39.830372+00:00
 - Daily limit: 1
-- Used today: 1
+- Used today: 2
 - Remaining today: 0
-- Latest record: ref=52869654 , status=SubmissionStatus.PENDING, score=None
+- Latest record: ref=52906782, status=SubmissionStatus.PENDING, score=None
+- Submit API returned ref=52906782; same-timestamp Kaggle list also contains error ref=52906783.
 
 ## Recent submissions
 - ref | timestamp | status | public score
-- 52869654 | 2026-05-21T02:41:07.427000 | SubmissionStatus.PENDING | None
+- 52906782 | 2026-05-22T01:12:31.987000 | SubmissionStatus.PENDING | None
+- 52906783 | 2026-05-22T01:12:31.983000 | SubmissionStatus.ERROR | None
+- 52869654 | 2026-05-21T02:41:07.427000 | SubmissionStatus.COMPLETE | 0.05
 - 52833008 | 2026-05-20T01:02:13.603000 | SubmissionStatus.COMPLETE | 0.08
 - 52794643 | 2026-05-19T02:33:07.083000 | SubmissionStatus.COMPLETE | 0.38
 - 52763032 | 2026-05-18T04:47:40.497000 | SubmissionStatus.COMPLETE | 0.14
@@ -62,3 +65,4 @@ The following files are kept in `/data`:
 - submit_20260504_pre_status.json
 - submit_20260520_pre_status.json
 - submit_20260521_pre_status.json
+- submit_20260522_pre_status.json
