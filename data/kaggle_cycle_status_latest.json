@@ -1,25 +1,34 @@
 {
   "competition": "arc-prize-2026-arc-agi-3",
-  "checked_at_utc": "2026-05-24T03:34:29.252733+00:00",
-  "utc_date": "2026-05-24",
+  "checked_at_utc": "2026-05-25T07:17:58.887953+00:00",
+  "utc_date": "2026-05-25",
   "daily_limit": 1,
   "used_submissions_today_utc": 1,
   "remaining_submissions_today_utc": 0,
-  "returned_submission_ref": 52973152,
+  "returned_submission_ref": 53011654,
   "latest_submission": {
-    "ref": 52973152,
+    "ref": 53011654,
     "status": "SubmissionStatus.PENDING",
     "publicScore": "",
     "privateScore": "",
     "description": "redpill v5 cpu latest",
     "fileName": "submission.parquet",
-    "date": "2026-05-24T03:34:12.313000"
+    "date": "2026-05-25T07:17:47.253000"
   },
   "recent_submissions": [
     {
-      "ref": 52973152,
+      "ref": 53011654,
       "status": "SubmissionStatus.PENDING",
       "publicScore": "",
+      "privateScore": "",
+      "description": "redpill v5 cpu latest",
+      "fileName": "submission.parquet",
+      "date": "2026-05-25T07:17:47.253000"
+    },
+    {
+      "ref": 52973152,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.14",
       "privateScore": "",
       "description": "redpill v5 cpu latest",
       "fileName": "submission.parquet",
@@ -96,18 +105,9 @@
       "description": "redpill v5 cpu latest",
       "fileName": "submission.parquet",
       "date": "2026-05-17T00:33:31"
-    },
-    {
-      "ref": 52719575,
-      "status": "SubmissionStatus.COMPLETE",
-      "publicScore": "0.15",
-      "privateScore": "",
-      "description": "redpill v5 cpu latest",
-      "fileName": "submission.parquet",
-      "date": "2026-05-16T19:42:14.447000"
     }
   ],
   "notes": [
-    "API status path used; no post-submit score polling was performed."
+    "Manual CPU kernel submission path used after GPU session limit blocked GPU push. No post-submit score polling was performed."
   ]
 }
