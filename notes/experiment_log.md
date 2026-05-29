@@ -1,15 +1,16 @@
 # ARC Prize 2026 - Public Records
 
 ## Run Summary
-- Updated: 2026-05-29T00:27:56.181665+00:00
+- Updated: 2026-05-29T00:28:01.243357+00:00
 - Daily limit: 5
-- Used today: 3
-- Remaining today: 2
-- Latest record: ref=53132594, status=SubmissionStatus.PENDING, score=
+- Used today: 4
+- Remaining today: 1
+- Latest record: ref=53132600, status=SubmissionStatus.PENDING, score=
 - Manual CPU kernel submission path used.
 
 ## Recent submissions
 - ref | timestamp | status | public score
+- 53132600 | 2026-05-29T00:28:00 | SubmissionStatus.PENDING | 
 - 53132594 | 2026-05-29T00:27:55 | SubmissionStatus.PENDING | 
 - 53132592 | 2026-05-29T00:27:50 | SubmissionStatus.PENDING | 
 - 53132587 | 2026-05-29T00:27:45.507000 | SubmissionStatus.PENDING | 
@@ -17,7 +18,6 @@
 - 53131485 | 2026-05-28T23:36:44.093000 | SubmissionStatus.PENDING | 
 - 53131472 | 2026-05-28T23:36:03 | SubmissionStatus.PENDING | 
 - 53131459 | 2026-05-28T23:35:22 | SubmissionStatus.PENDING | 
-- 53131449 | 2026-05-28T23:34:41 | SubmissionStatus.PENDING | 
 
 ## Data set
 The following files are kept in `/data`:
