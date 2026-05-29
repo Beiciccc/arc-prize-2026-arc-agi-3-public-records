@@ -1,21 +1,30 @@
 {
   "competition": "arc-prize-2026-arc-agi-3",
-  "checked_at_utc": "2026-05-29T00:28:01.243357+00:00",
+  "checked_at_utc": "2026-05-29T00:28:06.528700+00:00",
   "utc_date": "2026-05-29",
   "daily_limit": 5,
-  "used_submissions_today_utc": 4,
-  "remaining_submissions_today_utc": 1,
-  "returned_submission_ref": 53132600,
+  "used_submissions_today_utc": 5,
+  "remaining_submissions_today_utc": 0,
+  "returned_submission_ref": 53132604,
   "latest_submission": {
-    "ref": 53132600,
+    "ref": 53132604,
     "status": "SubmissionStatus.PENDING",
     "publicScore": "",
     "privateScore": "",
     "description": "redpill v5 cpu latest",
     "fileName": "submission.parquet",
-    "date": "2026-05-29T00:28:00"
+    "date": "2026-05-29T00:28:06.063000"
   },
   "recent_submissions": [
+    {
+      "ref": 53132604,
+      "status": "SubmissionStatus.PENDING",
+      "publicScore": "",
+      "privateScore": "",
+      "description": "redpill v5 cpu latest",
+      "fileName": "submission.parquet",
+      "date": "2026-05-29T00:28:06.063000"
+    },
     {
       "ref": 53132600,
       "status": "SubmissionStatus.PENDING",
@@ -96,15 +105,6 @@
       "description": "redpill v5 cpu latest",
       "fileName": "submission.parquet",
       "date": "2026-05-28T23:34:41"
-    },
-    {
-      "ref": 53096359,
-      "status": "SubmissionStatus.COMPLETE",
-      "publicScore": "0.18",
-      "privateScore": "",
-      "description": "redpill v5 cpu latest",
-      "fileName": "submission.parquet",
-      "date": "2026-05-27T20:45:55"
     }
   ],
   "notes": [
