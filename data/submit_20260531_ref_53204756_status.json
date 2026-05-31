@@ -1,0 +1,19 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "checked_at_utc": "2026-05-31T05:07:21.314Z",
+  "utc_date": "2026-05-31",
+  "daily_limit": 5,
+  "returned_submission_ref": 53204756,
+  "latest_submission": {
+    "ref": 53204756,
+    "status": "SubmissionStatus.PENDING",
+    "publicScore": "",
+    "privateScore": "",
+    "description": "redpill v5 cpu latest",
+    "fileName": "submission.parquet",
+    "date": "2026-05-31T05:05:00Z"
+  },
+  "notes": [
+    "Backfilled archival status because immediate post-submit status query hit Kaggle 429."
+  ]
+}
