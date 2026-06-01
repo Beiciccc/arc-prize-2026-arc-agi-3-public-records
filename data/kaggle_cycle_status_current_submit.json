@@ -1,29 +1,29 @@
 {
   "competition": "arc-prize-2026-arc-agi-3",
-  "checked_at_utc": "2026-06-01T01:28:24.988228+00:00",
+  "checked_at_utc": "2026-06-01T01:28:30.112497+00:00",
   "utc_date": "2026-06-01",
   "daily_limit": 5,
   "used_submissions_today_utc": null,
   "remaining_submissions_today_utc": null,
-  "returned_submission_ref": 53235856,
+  "returned_submission_ref": 53235858,
   "latest_submission": {
-    "ref": 53235856,
+    "ref": 53235858,
     "status": "SubmissionStatus.PENDING",
     "publicScore": "",
     "privateScore": "",
     "description": "redpill v5 cpu latest",
     "fileName": "submission.parquet",
-    "date": "2026-06-01T01:28:24.988228+00:00"
+    "date": "2026-06-01T01:28:30.112497+00:00"
   },
   "recent_submissions": [
     {
-      "ref": 53235856,
+      "ref": 53235858,
       "status": "SubmissionStatus.PENDING",
       "publicScore": "",
       "privateScore": "",
       "description": "redpill v5 cpu latest",
       "fileName": "submission.parquet",
-      "date": "2026-06-01T01:28:24.988228+00:00"
+      "date": "2026-06-01T01:28:30.112497+00:00"
     }
   ],
   "notes": [
