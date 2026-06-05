@@ -1,0 +1,19 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "checked_at_utc": "2026-06-05T01:24:26.406Z",
+  "utc_date": "2026-06-05",
+  "daily_limit": 5,
+  "returned_submission_ref": 53377603,
+  "latest_submission": {
+    "ref": 53377603,
+    "status": "SubmissionStatus.PENDING",
+    "publicScore": "",
+    "privateScore": "",
+    "description": "redpill v5 cpu latest",
+    "fileName": "submission.parquet",
+    "date": "2026-06-05T01:23:00Z"
+  },
+  "notes": [
+    "Backfilled archival status because local GitHub update hit BlockingIOError after successful submit."
+  ]
+}
