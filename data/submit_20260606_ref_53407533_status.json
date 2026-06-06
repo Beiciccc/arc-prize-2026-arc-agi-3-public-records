@@ -1,0 +1,19 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "checked_at_utc": "2026-06-06T02:55:20.494Z",
+  "utc_date": "2026-06-06",
+  "daily_limit": 5,
+  "returned_submission_ref": 53407533,
+  "latest_submission": {
+    "ref": 53407533,
+    "status": "SubmissionStatus.PENDING",
+    "publicScore": "",
+    "privateScore": "",
+    "description": "redpill v5 cpu latest",
+    "fileName": "submission.parquet",
+    "date": "2026-06-06T02:53:00Z"
+  },
+  "notes": [
+    "Backfilled archival status for manual submit after Kaggle status endpoint returned 500."
+  ]
+}
