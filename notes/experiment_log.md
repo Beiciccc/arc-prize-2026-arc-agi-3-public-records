@@ -1,23 +1,20 @@
 # ARC Prize 2026 - Public Records
 
 ## Run Summary
-- Updated: 2026-06-07T06:36:11.036582+00:00
+- Updated: 2026-06-08T13:43:58.520Z
 - Daily limit: 5
 - Used today: 5
 - Remaining today: 0
-- Latest record: ref=53442568, status=SubmissionStatus.PENDING, score=
-- Manual CPU kernel submission path used.
+- Latest record: ref=53479168, status=SubmissionStatus.PENDING, score=
+- Manual archival batch update after local status write/response parsing interruption.
 
 ## Recent submissions
 - ref | timestamp | status | public score
-- 53442568 | 2026-06-07T06:36:10.333000 | SubmissionStatus.PENDING | 
-- 53442564 | 2026-06-07T06:36:05 | SubmissionStatus.PENDING | 
-- 53442561 | 2026-06-07T06:36:00 | SubmissionStatus.PENDING | 
-- 53442558 | 2026-06-07T06:35:53.713000 | SubmissionStatus.PENDING | 
-- 53442555 | 2026-06-07T06:35:48 | SubmissionStatus.PENDING | 
-- 53407557 | 2026-06-06T02:53:59.323000 | SubmissionStatus.COMPLETE | 0.18
-- 53407552 | 2026-06-06T02:53:53 | SubmissionStatus.COMPLETE | 0.25
-- 53407549 | 2026-06-06T02:53:48.283000 | SubmissionStatus.COMPLETE | 0.19
+- 53479168 | 2026-06-08T13:42:29.233000Z | SubmissionStatus.PENDING | 
+- 53479159 | 2026-06-08T13:42:07.057000Z | SubmissionStatus.PENDING | 
+- 53479145 | 2026-06-08T13:41:44Z | SubmissionStatus.PENDING | 
+- 53479065 | 2026-06-08T13:39:28.413000Z | SubmissionStatus.PENDING | 
+- 53478952 | 2026-06-08T13:35:33Z | SubmissionStatus.PENDING | 
 
 ## Data set
 The following files are kept in `/data`:
@@ -85,3 +82,8 @@ The following files are kept in `/data`:
 - submit_20260606_pre_status.json
 - submit_20260606_ref_53407533_status.json
 - submit_20260607_pre_status.json
+- submit_20260608_ref_53478952_status.json
+- submit_20260608_ref_53479065_status.json
+- submit_20260608_ref_53479145_status.json
+- submit_20260608_ref_53479159_status.json
+- submit_20260608_ref_53479168_status.json

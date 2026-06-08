@@ -1,0 +1,19 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "checked_at_utc": "2026-06-08T13:43:58.520Z",
+  "utc_date": "2026-06-08",
+  "daily_limit": 5,
+  "returned_submission_ref": 53479145,
+  "latest_submission": {
+    "ref": 53479145,
+    "status": "SubmissionStatus.PENDING",
+    "publicScore": "",
+    "privateScore": "",
+    "description": "redpill v5 cpu latest",
+    "fileName": "submission.parquet",
+    "date": "2026-06-08T13:41:44Z"
+  },
+  "notes": [
+    "Backfilled archival status after local status write/response parsing interruption."
+  ]
+}
