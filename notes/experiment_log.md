@@ -87,3 +87,10 @@ The following files are kept in `/data`:
 - submit_20260608_ref_53479145_status.json
 - submit_20260608_ref_53479159_status.json
 - submit_20260608_ref_53479168_status.json
+
+## 2026-06-10 local planner CPU v1
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `53521026`.
+- Initial status at query time: `SubmissionStatus.PENDING`.
+- Follow-up submit attempt was rejected by Kaggle daily allowance: daily limit reported as `1` for the team on 2026-06-10 UTC.
+- Added records: `data/batch_submit_20260610_local_planner_v1.json`, `data/submit_20260610_after_submit_status.json`.

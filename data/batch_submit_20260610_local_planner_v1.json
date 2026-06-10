@@ -1,0 +1,24 @@
+{
+  "kernel": "beicicc/arc-prize-2026-local-planner",
+  "kernel_version": 1,
+  "competition": "arc-prize-2026-arc-agi-3",
+  "results": [
+    {
+      "i": 1,
+      "message": "local planner cpu v1 run 1 2026-06-10",
+      "time_utc": "2026-06-10T02:31:25.081886+00:00",
+      "ok": true,
+      "response": "{\"message\": \"\", \"ref\": 53521026}"
+    },
+    {
+      "i": 2,
+      "message": "local planner cpu v1 run 2 2026-06-10",
+      "time_utc": "2026-06-10T02:31:39.733386+00:00",
+      "ok": false,
+      "error_type": "HTTPError",
+      "error": "400 Client Error: Bad Request for url: https://www.kaggle.com/api/v1/competitions/submissions/submit-notebook/arc-prize-2026-arc-agi-3",
+      "status_code": 400,
+      "response_text": "{\"code\":400,\"message\":\"Submission not allowed:  Your team has used its daily Submission allowance (1) today, please try again tomorrow UTC (21 hours from now).\"}"
+    }
+  ]
+}
