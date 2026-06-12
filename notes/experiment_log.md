@@ -101,3 +101,9 @@ The following files are kept in `/data`:
 - Initial status at query time: `SubmissionStatus.PENDING`.
 - Follow-up submit attempt was rejected by Kaggle daily allowance: daily limit reported as `1` for the team on 2026-06-11 UTC.
 - Added records: `data/submit_20260611_pre_status.json`, `data/batch_submit_20260611_local_planner_v1.json`, `data/submit_20260611_after_submit_status.json`.
+
+## 2026-06-12 local planner CPU v1
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `53613717`.
+- Initial status at query time: `SubmissionStatus.PENDING`.
+- Added records: `data/submit_20260612_pre_status.json`, `data/batch_submit_20260612_local_planner_v1.json`, `data/submit_20260612_after_submit_status.json`.
