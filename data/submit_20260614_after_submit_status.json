@@ -1,0 +1,205 @@
+{
+  "queried_at_utc": "2026-06-14T18:10:11.590634+00:00",
+  "submissions": [
+    {
+      "ref": 53683568,
+      "status": "SubmissionStatus.PENDING",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-14 18:10:00.287000",
+      "description": "local planner cpu v1 run 1 2026-06-14",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53621047,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-13 01:47:20",
+      "description": "local planner cpu v1 run 1 2026-06-13",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53613717,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-12 19:32:08.057000",
+      "description": "local planner cpu v1 run 1 2026-06-12",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53552505,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-11 01:06:04.237000",
+      "description": "local planner cpu v1 run 1 2026-06-11",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53521026,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-10 02:31:35.493000",
+      "description": "local planner cpu v1 run 1 2026-06-10",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479168,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:42:29.233000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479159,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:42:07.057000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479145,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:41:44",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479065,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:39:28.413000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53478952,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:35:33",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53442568,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-07 06:36:10.333000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53442564,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-07 06:36:05",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53442561,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-07 06:36:00",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53442558,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-07 06:35:53.713000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53442555,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-07 06:35:48",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53407557,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-06 02:53:59.323000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53407552,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-06 02:53:53",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53407549,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-06 02:53:48.283000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53407544,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-06 02:53:41.823000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53407533,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-06 02:52:59.367000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    }
+  ]
+}
