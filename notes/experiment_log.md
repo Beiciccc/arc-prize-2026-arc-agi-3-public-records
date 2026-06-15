@@ -119,3 +119,9 @@ The following files are kept in `/data`:
 - Submission ref: `53683568`.
 - Initial status at query time: `SubmissionStatus.PENDING`.
 - Added records: `data/submit_20260614_pre_status.json`, `data/batch_submit_20260614_local_planner_v1.json`, `data/submit_20260614_after_submit_status.json`.
+
+## 2026-06-15 local planner CPU v1
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `53693866`.
+- Initial status at query time: `SubmissionStatus.PENDING`.
+- Added records: `data/submit_20260615_pre_status.json`, `data/batch_submit_20260615_local_planner_v1.json`, `data/submit_20260615_after_submit_status.json`.
