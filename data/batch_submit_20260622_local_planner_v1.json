@@ -1,0 +1,14 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "results": [
+    {
+      "message": "local planner cpu v1 run 1 2026-06-22",
+      "time_utc": "2026-06-22T12:00:07.478425+00:00",
+      "kernel": "beicicc/arc-prize-2026-local-planner",
+      "kernel_version": 1,
+      "ok": true,
+      "response": "{\"message\": \"\", \"ref\": 53945095}",
+      "ref": 53945095
+    }
+  ]
+}
