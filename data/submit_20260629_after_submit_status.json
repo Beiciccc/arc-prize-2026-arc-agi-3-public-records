@@ -1,0 +1,205 @@
+{
+  "queried_at_utc": "2026-06-29T22:57:16.463391+00:00",
+  "submissions": [
+    {
+      "ref": 54182585,
+      "status": "SubmissionStatus.PENDING",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-29 22:56:57",
+      "description": "local planner cpu v1 run 1 2026-06-29",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54152565,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-28 23:03:46.423000",
+      "description": "local planner cpu v1 run 1 2026-06-28",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54010017,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-24 11:44:22.797000",
+      "description": "local planner cpu v1 run 1 2026-06-24",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53960861,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-23 00:04:45",
+      "description": "local planner cpu v1 run 1 2026-06-23",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53945095,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-22 12:00:09.277000",
+      "description": "local planner cpu v1 run 1 2026-06-22",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53906815,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-21 08:06:30.033000",
+      "description": "local planner cpu v1 run 1 2026-06-21",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53864102,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-20 00:34:21",
+      "description": "local planner cpu v1 run 1 2026-06-20",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53827432,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-19 02:59:40.643000",
+      "description": "local planner cpu v1 run 1 2026-06-19",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53791673,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-18 01:08:42",
+      "description": "local planner cpu v1 run 1 2026-06-18",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53772336,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-17 10:20:24.353000",
+      "description": "local planner cpu v1 run 1 2026-06-17",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53731267,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-16 04:45:09.847000",
+      "description": "local planner cpu v1 run 1 2026-06-16",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53693866,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-15 02:50:17.337000",
+      "description": "local planner cpu v1 run 1 2026-06-15",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53683568,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-14 18:10:00.287000",
+      "description": "local planner cpu v1 run 1 2026-06-14",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53621047,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-13 01:47:20",
+      "description": "local planner cpu v1 run 1 2026-06-13",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53613717,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-12 19:32:08.057000",
+      "description": "local planner cpu v1 run 1 2026-06-12",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53552505,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-11 01:06:04.237000",
+      "description": "local planner cpu v1 run 1 2026-06-11",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53521026,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-10 02:31:35.493000",
+      "description": "local planner cpu v1 run 1 2026-06-10",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479168,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:42:29.233000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479159,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:42:07.057000",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53479145,
+      "status": "SubmissionStatus.ERROR",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-08 13:41:44",
+      "description": "redpill v5 cpu latest",
+      "fileName": null,
+      "errorDescription": null
+    }
+  ]
+}
