@@ -209,3 +209,9 @@ The following files are kept in `/data`:
 - Submission ref: `54250952`.
 - Post-submit status snapshot failed with Kaggle API `429 TooManyRequests`; not retried.
 - Added records: `data/submit_20260702_pre_status.json`, `data/batch_submit_20260702_local_planner_v1.json`, `data/submit_20260702_after_submit_status_error.json`.
+
+## 2026-07-03 local planner CPU v1
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `54291994`.
+- Initial status at query time: `SubmissionStatus.PENDING`.
+- Added records: `data/submit_20260703_pre_status.json`, `data/batch_submit_20260703_local_planner_v1.json`, `data/submit_20260703_after_submit_status.json`.
