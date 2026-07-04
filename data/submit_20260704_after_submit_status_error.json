@@ -1,0 +1,10 @@
+{
+  "queried_at_utc": "2026-07-04T03:48:50.637425+00:00",
+  "submission_ref": 54317163,
+  "status_snapshot_ok": false,
+  "error_type": "HTTPError",
+  "error": "429 Client Error: Too Many Requests for url: https://www.kaggle.com/api/v1/competitions/submissions/list/arc-prize-2026-arc-agi-3?sortby=date&group=all&page=0",
+  "message": "Kaggle submissions list endpoint failed during single post-submit status snapshot; not retried.",
+  "status_code": 429,
+  "response_text": "{\"code\":429,\"message\":\"TooManyRequests\"}"
+}
