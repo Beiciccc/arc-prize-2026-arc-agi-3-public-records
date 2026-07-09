@@ -1,0 +1,205 @@
+{
+  "queried_at_utc": "2026-07-09T04:17:33.286287+00:00",
+  "submissions": [
+    {
+      "ref": 54481658,
+      "status": "SubmissionStatus.PENDING",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-09 04:17:14",
+      "description": "local planner cpu v1 run 1 2026-07-09",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54457101,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-08 09:31:05.657000",
+      "description": "local planner cpu v1 run 1 2026-07-08",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54410205,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-07 00:23:00",
+      "description": "local planner cpu v1 run 1 2026-07-07",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54355124,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-05 08:03:37.553000",
+      "description": "local planner cpu v1 run 1 2026-07-05",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54317163,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-04 03:48:37",
+      "description": "local planner cpu v1 run 1 2026-07-04",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54291994,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-03 08:34:10.233000",
+      "description": "local planner cpu v1 run 1 2026-07-03",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54250952,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-02 03:03:32",
+      "description": "local planner cpu v1 run 1 2026-07-02",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54219043,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-07-01 03:12:45.887000",
+      "description": "local planner cpu v1 run 1 2026-07-01",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54214276,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-30 23:12:57",
+      "description": "local planner cpu v1 run 1 2026-06-30",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54182585,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-29 22:56:57",
+      "description": "local planner cpu v1 run 1 2026-06-29",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54152565,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-28 23:03:46.423000",
+      "description": "local planner cpu v1 run 1 2026-06-28",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 54010017,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-24 11:44:22.797000",
+      "description": "local planner cpu v1 run 1 2026-06-24",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53960861,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-23 00:04:45",
+      "description": "local planner cpu v1 run 1 2026-06-23",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53945095,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-22 12:00:09.277000",
+      "description": "local planner cpu v1 run 1 2026-06-22",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53906815,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-21 08:06:30.033000",
+      "description": "local planner cpu v1 run 1 2026-06-21",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53864102,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-20 00:34:21",
+      "description": "local planner cpu v1 run 1 2026-06-20",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53827432,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-19 02:59:40.643000",
+      "description": "local planner cpu v1 run 1 2026-06-19",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53791673,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-18 01:08:42",
+      "description": "local planner cpu v1 run 1 2026-06-18",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53772336,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-17 10:20:24.353000",
+      "description": "local planner cpu v1 run 1 2026-06-17",
+      "fileName": null,
+      "errorDescription": null
+    },
+    {
+      "ref": 53731267,
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": null,
+      "privateScore": null,
+      "date": "2026-06-16 04:45:09.847000",
+      "description": "local planner cpu v1 run 1 2026-06-16",
+      "fileName": null,
+      "errorDescription": null
+    }
+  ]
+}
