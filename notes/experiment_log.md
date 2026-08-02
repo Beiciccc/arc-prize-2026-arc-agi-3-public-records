@@ -372,3 +372,9 @@ The following files are kept in `/data`:
 - Submission ref: `55154161`.
 - Post-submit status and score were not queried.
 - Added records: `data/submit_20260801_pre_status.json`, `data/batch_submit_20260801_local_planner_v1.json`.
+
+## 2026-08-02 local planner CPU v1
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `55173706`.
+- Post-submit status and score were not queried.
+- Added records: `data/submit_20260802_pre_status.json`, `data/batch_submit_20260802_local_planner_v1.json`.
