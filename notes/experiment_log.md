@@ -441,3 +441,15 @@ The following files are kept in `/data`:
 - Previous submission ref `55490291` was the latest available record at pre-submit review.
 - Post-submit status and score were not queried.
 - Added record: `data/batch_submit_20260901_local_planner_v1.json`.
+
+## 2026-09-20 local planner CPU v1
+- Submitted at 21:53 UTC (2026-09-21 05:53 Asia/Shanghai).
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `56406662`; submission request accepted.
+- Experiment: repeat evaluation of the unchanged version; no new training or gameplay validation.
+- Previous submission ref `55939240` completed with public score `0.32` at pre-submit review.
+- UTC daily allowance: `1`; used before this submission: `0`.
+- Output schema, policy syntax, and gateway configuration checks passed.
+- Saved Notebook output is a placeholder; the scored output is generated during competition rerun.
+- Post-submit status and score were not queried.
+- Added records: `data/submit_20260920_pre_status.json`, `data/submit_20260920_validation.json`, `data/batch_submit_20260920_local_planner_v1.json`.
