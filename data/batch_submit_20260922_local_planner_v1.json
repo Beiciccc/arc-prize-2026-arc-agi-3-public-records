@@ -1,0 +1,17 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "time_utc": "2026-09-22T00:30:52.813577+00:00",
+  "kernel": "beicicc/arc-prize-2026-local-planner",
+  "kernel_version": 1,
+  "file_name": "submission.parquet",
+  "message": "local planner cpu v1 run 1 2026-09-22",
+  "attempts": 1,
+  "post_submit_status_queried": false,
+  "response": {
+    "message": "",
+    "ref": 56446995
+  },
+  "ref": 56446995,
+  "ok": true,
+  "state": "accepted"
+}
