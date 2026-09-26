@@ -1,0 +1,51 @@
+{
+  "scope": "visible pre-submit history only; same described notebook version",
+  "count": 10,
+  "minimum": 0.17,
+  "maximum": 0.32,
+  "mean": 0.21,
+  "population_stddev": 0.0479583152331272,
+  "newest_to_oldest": [
+    {
+      "ref": 56507450,
+      "public_score": "0.18"
+    },
+    {
+      "ref": 56446995,
+      "public_score": "0.21"
+    },
+    {
+      "ref": 56406662,
+      "public_score": "0.28"
+    },
+    {
+      "ref": 55939240,
+      "public_score": "0.32"
+    },
+    {
+      "ref": 55490291,
+      "public_score": "0.17"
+    },
+    {
+      "ref": 55420548,
+      "public_score": "0.21"
+    },
+    {
+      "ref": 55367134,
+      "public_score": "0.18"
+    },
+    {
+      "ref": 55337574,
+      "public_score": "0.17"
+    },
+    {
+      "ref": 55324397,
+      "public_score": "0.18"
+    },
+    {
+      "ref": 55304246,
+      "public_score": "0.20"
+    }
+  ],
+  "interpretation": "Repeated evaluation does not establish a method improvement."
+}

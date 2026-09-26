@@ -1,0 +1,26 @@
+{
+  "kernel": "beicicc/arc-prize-2026-local-planner",
+  "kernel_version": 1,
+  "output_file": "submission.parquet",
+  "output_rows": 1,
+  "output_columns": [
+    "row_id",
+    "game_id",
+    "end_of_game",
+    "score"
+  ],
+  "output_role": "placeholder; scored output is generated during competition rerun",
+  "syntax_check": "passed",
+  "gateway_configuration_check": "passed",
+  "unchanged_notebook_cells": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "notebook_sha256": "cbe85736a9e40f6367441403c18d821c552e94bc5bf4edd7d46bff2314548d9d",
+  "policy_sha256": "677507df8eb907c8af1dfa559596dcd8e66114afa479fe4bdbba71d351740ac7",
+  "parquet_sha256": "71bfd543030e339d87bd9ff744d466218398a1259650b2c255626d27049c88bb",
+  "experiment_type": "unchanged-version repeat evaluation",
+  "default_seed_uses_time": true,
+  "previous_submission_ref": 56507450,
+  "previous_public_score": "0.18",
+  "fresh_gameplay_validation": false
+}
