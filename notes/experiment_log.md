@@ -508,3 +508,17 @@ The following files are kept in `/data`:
 - TAAF GPU runtime validation remains incomplete; that candidate was not used for this submission.
 - Post-submit status and score were not queried.
 - Added records: `data/submit_20261002_pre_status.json`, `data/submit_20261002_validation.json`, `data/batch_submit_20261002_local_planner_v1.json`, `data/submit_20261002_score_history.json`.
+
+## 2026-10-03 local planner CPU v1
+- Submitted at 16:59 UTC (2026-10-04 00:59 Asia/Shanghai).
+- Kernel: `beicicc/arc-prize-2026-local-planner`, version `1`.
+- Submission ref: `56802868`; submission request accepted.
+- Experiment: repeat evaluation of the unchanged version; no new training or gameplay validation.
+- Previous submission ref `56768501` completed with public score `0.17` at pre-submit review.
+- UTC daily allowance: `1`; used before this submission: `0`.
+- Output schema, policy syntax, gateway configuration, and unchanged Notebook checks passed.
+- Saved Notebook output is a placeholder; scored output is generated during competition rerun.
+- The latest ten visible completed v1 records have mean public score `0.211` and range `0.17-0.32`; this does not establish a method improvement.
+- TAAF GPU runtime validation remains incomplete; that candidate was not used for this submission.
+- Post-submit status and score were not queried.
+- Added records: `data/submit_20261003_pre_status.json`, `data/submit_20261003_validation.json`, `data/batch_submit_20261003_local_planner_v1.json`, `data/submit_20261003_score_history.json`.
